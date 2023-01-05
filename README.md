@@ -2,7 +2,7 @@
 DongHo là trang web quản lý cửa hàng đồng hồ được viết bằng php
 
 ## Cài đặt
-- Tải [Xampp] (https://www.apachefriends.org/download.html)về máy.
+- Tải [Xampp](https://www.apachefriends.org/download.html)về máy.
 - Cài đặt Xampp trên máy.
 - Đặt cổng mặc định cho Xampp( Apache:8899, MySQL:3306)
 - Cho thư mục "a" vào "xampp/htdocs".
