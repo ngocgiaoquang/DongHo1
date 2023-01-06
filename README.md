@@ -1,5 +1,5 @@
 # DongHo
-DongHo là trang web quản lý cửa hàng đồng hồ được viết bằng php( bao gồm có các chức năng thêm, xóa, sửa, đăng nhập)
+DongHo là trang web quản lý cửa hàng đồng hồ được viết bằng php( bao gồm có các chức năng thêm, xóa, sửa, đăng nhập Admin)
 ## Yêu cầu
 - Cần có XAMPP
 - Cần có công cụ IDE: VsCode
